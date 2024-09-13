@@ -7,6 +7,9 @@ I'm already well-versed in SVG so at first I'm skipping most of the course to th
 
 I'll return to complete the rest of the course in future, because FrontEnd Masters now offers certificates of completion - which is always nice to have.
 
+Link to course:
+https://frontendmasters.com/courses/svg-essentials-animation
+
 Below are the links to the exercises
 
 ## Completed Exercises
