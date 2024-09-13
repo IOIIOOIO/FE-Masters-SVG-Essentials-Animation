@@ -1,5 +1,6 @@
 # FE-Masters-SVG-Essentials-Animation
 Course link: https://frontendmasters.com/courses/svg-essentials-animation
+
 Course repo: https://github.com/sdras/svg-workshop
 
 ## Introduction
