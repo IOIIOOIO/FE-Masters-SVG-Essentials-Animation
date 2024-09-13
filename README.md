@@ -15,3 +15,4 @@ Below are the links to the exercises I worked on.
 ## Completed Exercises
 
 ## Notes
+Easily find GSAP plugins for CodePen experiments: https://codepen.io/GreenSock/pen/OPqpRJ
